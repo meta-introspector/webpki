@@ -12,3 +12,4 @@ benches/*.der
 
 # Python virtualenv
 .venv
+process-repo.log
